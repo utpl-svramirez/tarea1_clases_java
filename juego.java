@@ -1,1 +1,5 @@
 //comentario
+
+public class Juego(){
+    
+}
